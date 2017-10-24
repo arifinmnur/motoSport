@@ -1,0 +1,6 @@
+DCT1299001#Ducati#1299cc-Panigale S#Rani#
+DCT1299002#Ducati#1299cc-Panigale S#Rizal#
+YMH1000001#Yamaha#1000cc-YZF-R1s#Rani#
+KWS1400001#Kawasaki#1400cc-ZX-14R ABS SE#Ridwan#
+HDA0600001#Honda#0600cc-CBR600RR#Dana#
+HDA0600002#Honda#0600cc-CBR600RR#Rizal#
